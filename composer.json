@@ -1,5 +1,5 @@
 {
-    "name": "ibrahimhcadirci/laravel-api-data-processing",
+    "name": "ibrahimhcadirci/data-processing",
     "description": "data processing",
     "type": "library",
     "require": {
