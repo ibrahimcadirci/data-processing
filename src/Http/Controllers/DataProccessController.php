@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibrahimhcadirci\DataProcessing\Http\Controllers;
+namespace ibrahimhcadirci\DataProcessing\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 

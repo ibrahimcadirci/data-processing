@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Ibrahimhcadirci\DataProcessing;
+namespace ibrahimhcadirci\DataProcessing;
 
 use Illuminate\Support\ServiceProvider;
 
