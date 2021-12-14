@@ -1,0 +1,24 @@
+<?php
+
+
+namespace Ibrahimhcadirci\DataProcessing;
+
+use Illuminate\Support\ServiceProvider;
+
+class DataProcessingServiceProvider extends ServiceProvider{
+    /**
+     * Bootstrap any package services.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
+
+    }
+    
+    
+    public function register(){
+
+    }
+}

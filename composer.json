@@ -1,0 +1,23 @@
+{
+    "name": "ibrahimhcadirci/laravel-api-data-processing",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8.75",
+        "php": "=>8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibrahimhcadirci\\LaravelApiDataProcessing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "İbrahim Halil Çadırcı",
+            "email": "ibrahimh.cadirci@gmail.com"
+        }
+    ],
+    
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
