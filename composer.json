@@ -1,9 +1,10 @@
 {
     "name": "ibrahimhcadirci/laravel-api-data-processing",
+    "description": "data processing",
     "type": "library",
     "require": {
         "illuminate/support": "^8.75",
-        "php": "=>8.0"
+        "php": ">8.0"
     },
     "license": "MIT",
     "autoload": {
